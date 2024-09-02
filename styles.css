@@ -1,0 +1,55 @@
+h1, ul {
+    text-align: center;
+    list-style: none;
+    font-family: Georgia, serif;
+    color: rgb(197, 196, 196);
+    padding: 0;
+    
+}
+
+a {
+    text-decoration: none;
+    color: #393c3e;
+    line-height: 1.8;
+    font-size: 20px;
+}
+
+body {
+    background-image: url(./Background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    aspect-ratio: 1900/1080;
+}
+
+
+img {
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    box-shadow: 5px 5px gray;
+}
+
+div.polaroid {
+    width: 80%;
+    background-color:rgb(197, 196, 196);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 8px;
+  }
+
+li {
+    text-align: center;
+    padding: 10px 20px;
+    
+}
+
+.equal-size {
+    width: 385px;
+    height: 300px;
+    object-fit: cover; /* Ensures the image maintains its aspect ratio */
+}
