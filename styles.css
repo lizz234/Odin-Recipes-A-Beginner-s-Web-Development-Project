@@ -51,5 +51,5 @@ li {
 .equal-size {
     width: 385px;
     height: 300px;
-    object-fit: cover; /* Ensures the image maintains its aspect ratio */
+    object-fit: cover;
 }
