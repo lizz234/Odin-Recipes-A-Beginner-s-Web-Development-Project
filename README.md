@@ -7,3 +7,4 @@ Welcome to my Recipe Website! This project was created as part of [The Odin Proj
 This website allows users to browse, view, and follow various recipes. It includes essential web development features such as:
 
 - **HTML**: For structuring the content of the website.
+- **CSS**: For styling and layout, making the site visually appealing.
